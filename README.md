@@ -3,7 +3,6 @@
 
 Hi! I'm Dan, a graduate of the Northcoders coding bootcamp, currently looking for work in my first development role.
 
-🏗
 
 <h1> 🛠️ Skillsets 🛠️ </h1>
 
