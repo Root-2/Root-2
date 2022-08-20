@@ -32,8 +32,7 @@ Uses React as a single-page site with login functions, using an API to call a ba
 <h1>💡 Things I'm Up To 💡</h1>
 
 - 🔭 I’m currently working on: <br/>
-Tidying up the above projects, and producing a full-stack project outside of Northcoders.<br/>
-Also working on a portfolio website to better display my projects!<br/>
+A project with my partner, staceycoils, that should be ready soon!<br/>
 
 - 🌱 I’m currently learning ... <br/>
 More Firebase!
